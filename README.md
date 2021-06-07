@@ -1,1 +1,2 @@
 # PaymentApp
+This project was created in Spring Tool Suite 4 in Java (Spring boot with JSP pages). I have used H2 in-memory database for this project.Once the project is started, go to http://localhost:8080/ (or other port if configured differently). Go to http://localhost:8080/h2-console for database GUI. Projects starts with 5 accounts but with no transactions to you have to make payments to see the transactions
